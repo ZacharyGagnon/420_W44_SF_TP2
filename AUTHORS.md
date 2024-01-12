@@ -10,4 +10,4 @@
 
 ## Lien de la vidéo de présentation
 
-- Lien YouTube #1 :
+- Lien YouTube #1 : https://www.youtube.com/watch?v=EBShnjbiA_4
