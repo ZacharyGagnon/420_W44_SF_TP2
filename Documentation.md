@@ -11,7 +11,8 @@
 3. clicquer sur le pipeline Developpement
 4. clicquer sur "Create release" en bleu
 5. ensuite mettre un commentaire et clicquer sur create
-6. si vous etes un approbateur attendre que le premier stage finnisse et approuver le deuxieme
+6. recliquer sur l'onglet release pour voir votre release en cours 
+8. si vous etes un approbateur attendre que le premier stage finnisse et approuver le deuxieme
 
 *noter que le pipeline "Release 1 Developpement" ce declanche automatiquement lorsque la branche develop change et meme chose pour "Release 2 Production" mais pour la branche main
 
